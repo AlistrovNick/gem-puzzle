@@ -1,2 +1,2 @@
-# alistrovnick-JSFE2022Q3
-Private repository for @alistrovnick
+# Gem Puzzle
+It is traditional barley-break game
